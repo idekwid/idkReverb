@@ -1,6 +1,8 @@
 # idkReverb
 my little reverb thing because why not.
 
-I got inspired by a little train of thought I had to build a little reverb in plugdata
+I got inspired by a little train of thought I had to build a little reverb in JUCE (formerly plugdata)
 
-It's a basic patch right now and it reverbs... but I have some fun stuff I wanna try, so bear with me :3
+I have changed my mind and I will use JUCE to make this. Seems to make a little more sense. Also because plugdata seems to not like me very much... so JUCE it is.
+
+again, bare with me. I have some cool plans with this.
